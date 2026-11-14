@@ -11,3 +11,5 @@ and I care about what users actually see: visual regression, accessibility, UI c
 - 📜 ISTQB CTFL certified, working towards CTAL-TAE
 
 **Stack**: Playwright · TypeScript · Vue / React · Node · CI with GitHub Actions
+
+📫 [LinkedIn](https://www.linkedin.com/in/emmanuel-plougoulm-89393560/) · [Website](https://emmanuelplougoulm.github.io)
