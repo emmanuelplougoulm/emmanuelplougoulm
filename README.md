@@ -7,7 +7,7 @@ and I care about what users actually see: visual regression, accessibility, UI c
 
 - 🧪 **Now**: QA engineer: manual testing and Playwright automation, owning the front-end scope
 - 💻 **Before**: 5+ years as a fullstack JS/TS developer
-- 🎨 **Before that**: UI designer for international brands
+- 🎨 **Before that**: graphic designer at Fabrica (Benetton) and Baillat Cardell & fils (Montréal), then freelance
 - 📜 ISTQB CTFL certified, working towards CTAL-TAE
 
 **Stack**: Playwright · TypeScript · Vue / React · Node · CI with GitHub Actions
